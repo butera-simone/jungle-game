@@ -1,0 +1,11 @@
+{
+  "name": "jungle-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Simone Butera",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
+}
